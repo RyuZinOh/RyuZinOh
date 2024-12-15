@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
+## Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 
 <table>
   <tr>
@@ -7,7 +7,6 @@
   </tr>
 </table>
 
-<hr>
 
 ## GitHub Profile Overview
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
@@ -17,8 +16,6 @@ Check out:
 - [GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
 - [Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)
 
-
-<hr>
 
 ## Connect with Me
 <p style="font-size: 20px;">
