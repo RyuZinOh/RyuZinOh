@@ -1,12 +1,12 @@
-Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
+# Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 
-![Illustration](./illustration.png)
+![Profile Illustration](illustration.png)
 
 ---
 
 ## GitHub Profile Overview
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<p align="center">
   <a href="https://github.com/ryuzinoh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="120">
   </a>
@@ -16,7 +16,7 @@ Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://gith
   <a href="https://github.com/ryuzinoh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="120">
   </a>
-</div>
+</p>
 
 ---
 
@@ -26,7 +26,7 @@ Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://gith
 
 ### Connect with Me
 
-<div style="display: flex; gap: 15px;">
+<p align="center">
   <a href="https://github.com/happilli" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="20" height="20" />
   </a>
@@ -42,6 +42,4 @@ Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://gith
   <a href="https://twitter.com/yoyuehappy" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="20" height="20" />
   </a>
-</div>
-
----
+</p>
