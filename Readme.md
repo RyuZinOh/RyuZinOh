@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="illustration.png" width="350" /></td>
+    <td><img src="illustration.png" width="250" /></td>
     <td>"I love to code by day, when night falls I save society, <i>I am Batman.</i>"</td>
   </tr>
 </table>
@@ -10,9 +10,9 @@
 <hr>
 
 ## GitHub Profile Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" width="400" />
 
 <hr>
 
