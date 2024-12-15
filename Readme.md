@@ -1,27 +1,20 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <p>Hi 👋, I'm <a href="https://safallama.com.np">Safal Lama</a>, aka <a href="https://github.com/happilli">Happilli</a>!</p>
-  </div>
-  <div>
-    <img src="https://via.placeholder.com/200x150.gif" alt="GIF Illustration" style="border-radius: 10px;">
-  </div>
-</div>
+Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
+
+![Illustration](./illustration.png)
 
 ---
 
 ## GitHub Profile Overview
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="120">
   </a>
-  
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="120">
   </a>
-  
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="120">
   </a>
 </div>
 
@@ -35,19 +28,19 @@
 
 <div style="display: flex; gap: 15px;">
   <a href="https://github.com/happilli" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="20" height="20" />
   </a>
   <a href="https://www.linkedin.com/in/safal-lama-379738330/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" />
   </a>
   <a href="https://www.instagram.com/happillli_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" width="20" height="20" />
   </a>
   <a href="https://www.facebook.com/myExistenceIsMythToMyOwnPast/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Facebook" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Facebook" width="20" height="20" />
   </a>
   <a href="https://twitter.com/yoyuehappy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="20" height="20" />
   </a>
 </div>
 
