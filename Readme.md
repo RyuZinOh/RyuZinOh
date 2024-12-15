@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="illustration.png" width="500" /></td>
+    <td><img src="illustration.png" width="350" /></td>
     <td>"I love to code by day, when night falls I save society, <i>I am Batman.</i>"</td>
   </tr>
 </table>
