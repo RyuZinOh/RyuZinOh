@@ -1,32 +1,31 @@
-# Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
+# <p align="center" style="font-size: 24px;">Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!</p>
 
-![Profile Illustration](illustration.png)
+<p align="right">
+  <img src="illustration.png" alt="Profile Illustration" width="200">
+  <br>
+  
+> _"I love to code by day, when night falls I save society, *I am Batman.*"_
+</p>
 
 ---
 
 ## GitHub Profile Overview
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="120">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" alt="Top Languages" height="80">
   </a>
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="120">
+    <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" alt="GitHub Stats" height="80">
   </a>
   <a href="https://github.com/ryuzinoh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="120">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" alt="Streak Stats" height="80">
   </a>
 </p>
 
----
-
-## About Me
-
-> *"I love to code by day, when night falls I save society, _I am Batman._"*
-
 ### Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/happilli" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="20" height="20" />
   </a>
