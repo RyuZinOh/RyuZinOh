@@ -10,13 +10,11 @@
 <hr>
 
 ## GitHub Profile Overview
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" width="400" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" width="400" /></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple" width="400" />
+</div>
 
 <hr>
 
