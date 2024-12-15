@@ -10,10 +10,13 @@
 <hr>
 
 ## GitHub Profile Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+Check out:
+- [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
+- [Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)
+
 
 <hr>
 
