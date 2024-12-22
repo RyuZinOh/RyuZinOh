@@ -1,7 +1,3 @@
-Here’s an optimized version of your profile:
-
----
-
 ## Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
 I am Currently working on [Serena Frontend](https://github.com/RyuZinOh/serena-FRONTEND) and [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-) and is opened for any help or contribution
 <table>
@@ -29,6 +25,3 @@ Check out my:
   <a href="https://twitter.com/yoyuehappy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="35" height="35" /></a>
 </p> 
 
----
-
-This version has a clearer structure, with concise descriptions and easy access to your projects and links!
