@@ -2,7 +2,7 @@
 I am Currently working on [Serena Frontend](https://github.com/RyuZinOh/serena-FRONTEND) and [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-) and is opened for any help or contribution
 <table>
   <tr>
-    <td><img src="illustration.png" width="250" alt="Safal Lama" /></td>
+    <td><img src="illustrationr.png" width="250" alt="Safal Lama" /></td>
     <td><i>"I love to code by day, when night falls I save society, I am Batman."</i></td>
   </tr>
 </table>
