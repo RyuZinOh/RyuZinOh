@@ -8,6 +8,7 @@
 
 ## Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
+--
 ![Safal custum GitHub Streak](https://dealer.safallama.com.np/streak/ryuzinoh/image)
 
 
