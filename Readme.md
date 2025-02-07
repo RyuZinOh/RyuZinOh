@@ -1,5 +1,4 @@
 ## Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli)!
-I am Currently working on [Serena Frontend](https://github.com/RyuZinOh/serena-FRONTEND) and [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-), paralllely contributing to [SamanEvolution](https://github.com/Happilli/Saman-Evolution) and is opened for any help or contribution !
 <table>
   <tr>
     <td><img src="illustrationr.png" width="250" alt="Safal Lama" /></td>
