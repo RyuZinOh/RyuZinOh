@@ -8,8 +8,7 @@
 
 ## Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
-![GitHub Streak](https://living-gained-product-vision.trycloudflare.com/streak/ryuzinoh/image)
+![Safal custum GitHub Streak](https://dealer.safallama.com.np/streak/ryuzinoh/image)
 
 
 Check out my:
