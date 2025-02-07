@@ -9,7 +9,7 @@
 ## Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
 --
-![Safal custum GitHub Streak](https://dealer.safallama.com.np/streak/ryuzinoh/image)
+![Safal](https://dealer.safallama.com.np/streak/ryuzinoh/image?timestamp=20250208)
 
 
 Check out my:
