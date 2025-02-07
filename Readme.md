@@ -7,7 +7,7 @@
 </table>
 
 ## Stats
-![Safal](https://dealer.safallama.com.np/streak/ryuzinoh/image?timestamp=20250804)
+![Safal](https://dealer.safallama.com.np/streak/ryuzinoh/image?timestamp=20250809)
 
 
 Check out my:
