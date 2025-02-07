@@ -6,8 +6,8 @@
   </tr>
 </table>
 
-## GitHub Stats
-
+## Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
 
 Check out my:
