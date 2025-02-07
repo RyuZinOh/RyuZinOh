@@ -9,6 +9,8 @@
 ## Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryuzinoh&theme=midnight-purple)
+![GitHub Streak](https://living-gained-product-vision.trycloudflare.com/streak/ryuzinoh/image)
+
 
 Check out my:
 - [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
