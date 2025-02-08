@@ -7,7 +7,9 @@
 </table>
 
 ## Stats
-![Safal](https://github-streaks.onrender.com/streak/ryuzinoh/image)
+![GitHub Streak](https://github-streaks.onrender.com/streak/ryuzinoh/image)
+
+
 
 
 Check out my:
