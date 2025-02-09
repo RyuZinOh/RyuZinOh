@@ -9,10 +9,10 @@
 ## Stats
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <img src="https://github-streaks.onrender.com/streak/ryuzinoh/image?cache_bust=69" alt="GitHub Streak Stats" style="width: 400px; height: auto; margin-bottom: 10px;">
+    <img src="https://github-streaks.onrender.com/streak/ryuzinoh/image?cache_bust=96" alt="GitHub Streak Stats" style="width: 400px; height: auto; margin-bottom: 10px;">
 </div>
 
-
+![monkeytype](https://github-streaks.onrender.com/monkeytype/streak/image?cache_dump=69)
 
 
 
