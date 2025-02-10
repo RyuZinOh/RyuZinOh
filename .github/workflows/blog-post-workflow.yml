@@ -1,47 +1,19 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
-
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://safallama.com.np/feed.xml"
-
-      - name: Update Readme.md with latest blog posts
-        run: |
-          echo "## 📝 Latest Blog Posts" >> Readme.md
-          echo "Here are the latest blog posts to check out:" >> Readme.md
-          echo "" >> Readme.md
-          echo "---" >> Readme.md
-          echo "" >> Readme.md
-          echo "<details>" >> Readme.md
-          echo "<summary>Click to expand the latest posts</summary>" >> Readme.md
-          echo "" >> Readme.md
-          echo "- **Blog Post 1**: [URL](link)" >> Readme.md
-          echo "- **Blog Post 2**: [URL](link)" >> Readme.md
-          echo "- **Blog Post 3**: [URL](link)" >> Readme.md
-          echo "" >> Readme.md
-          echo "</details>" >> Readme.md
-          echo "" >> Readme.md
-          echo "---" >> Readme.md
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          git add Readme.md
-          git commit -m "Update Readme.md with latest blog posts"
-          git push
