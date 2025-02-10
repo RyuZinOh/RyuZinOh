@@ -20,4 +20,6 @@
 
 _I love to code by day, when night falls I save society, I am Batman._
 
-
+## 📢 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
