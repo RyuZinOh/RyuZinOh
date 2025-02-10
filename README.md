@@ -22,4 +22,9 @@ _I love to code by day, when night falls I save society, I am Batman._
 
 ## 📢 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serena](https://happilli.github.io/posts/Serena/)
+- [Socket Module](https://happilli.github.io/posts/Socket_Module/)
+- [Serenity Profiles](https://happilli.github.io/posts/Image-Processor/)
+- [Noble Auction](https://happilli.github.io/posts/Noble-Auction/)
+- [Saman](https://happilli.github.io/posts/saman/)
 <!-- BLOG-POST-LIST:END -->
