@@ -20,7 +20,7 @@
 
 _I love to code by day, when night falls I save society, I am Batman._
 
-## 📢 Latest Blog Posts
+## Posts
 <!-- BLOG-POST-LIST:START -->
 - [Serena](https://happilli.github.io/posts/Serena/)
 - [Socket Module](https://happilli.github.io/posts/Socket_Module/)
