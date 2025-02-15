@@ -4,7 +4,7 @@
 <!--    <img src="https://github-streaks.onrender.com/monkeytype/streak/image?cache_dump=69" alt="GitHub Streak Stats" style="width: 444px; height: auto; margin-bottom: 10px;"> -->
 </div>
 
-- currenttly contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX
+- currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX
 
 # Statistics 
 - [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
