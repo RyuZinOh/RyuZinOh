@@ -13,14 +13,6 @@
 - [Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)
 - [Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
 -->
-## Posts
-<!-- BLOG-POST-LIST:START -->
-- [Serena](https://happilli.github.io/posts/Serena/)
-- [Socket Module](https://happilli.github.io/posts/Socket_Module/)
-- [Serenity Profiles](https://happilli.github.io/posts/Image-Processor/)
-- [Noble Auction](https://happilli.github.io/posts/Noble-Auction/)
-- [Saman](https://happilli.github.io/posts/saman/)
-<!-- BLOG-POST-LIST:END -->
 
 ## Posts
 <!-- feed start -->
