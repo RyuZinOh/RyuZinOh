@@ -22,6 +22,10 @@
 - [Saman](https://happilli.github.io/posts/saman/)
 <!-- BLOG-POST-LIST:END -->
 
+## Posts
+<!-- feed start -->
+<!-- feed end -->
+
 ## Connect with Me
 <p style="font-size: 20px;">
   <a href="https://github.com/happilli"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="35" height="35" /></a>
