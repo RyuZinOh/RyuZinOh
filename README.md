@@ -6,11 +6,21 @@
 
 - currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX
 
+<!--
 # Statistics 
 - [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
 - [GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
 - [Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)
 - [Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
+-->
+## Posts
+<!-- BLOG-POST-LIST:START -->
+- [Serena](https://happilli.github.io/posts/Serena/)
+- [Socket Module](https://happilli.github.io/posts/Socket_Module/)
+- [Serenity Profiles](https://happilli.github.io/posts/Image-Processor/)
+- [Noble Auction](https://happilli.github.io/posts/Noble-Auction/)
+- [Saman](https://happilli.github.io/posts/saman/)
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect with Me
 <p style="font-size: 20px;">
@@ -23,11 +33,4 @@
 
 _I love to code by day, when night falls I save society, I am Batman._
 
-## Posts
-<!-- BLOG-POST-LIST:START -->
-- [Serena](https://happilli.github.io/posts/Serena/)
-- [Socket Module](https://happilli.github.io/posts/Socket_Module/)
-- [Serenity Profiles](https://happilli.github.io/posts/Image-Processor/)
-- [Noble Auction](https://happilli.github.io/posts/Noble-Auction/)
-- [Saman](https://happilli.github.io/posts/saman/)
-<!-- BLOG-POST-LIST:END -->
+
