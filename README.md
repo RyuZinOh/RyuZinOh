@@ -16,6 +16,11 @@
 
 ## Posts
 <!-- feed start -->
+- Jan 17 - [Serena](https://happilli.github.io/posts/Serena/)
+- Jan 16 - [Socket Module](https://happilli.github.io/posts/Socket_Module/)
+- Nov 13 - [Serenity Profiles](https://happilli.github.io/posts/Image-Processor/)
+- Oct 10 - [Noble Auction](https://happilli.github.io/posts/Noble-Auction/)
+- Oct 10 - [Saman](https://happilli.github.io/posts/saman/)
 <!-- feed end -->
 
 ## Connect with Me
