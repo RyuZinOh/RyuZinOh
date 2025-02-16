@@ -33,6 +33,6 @@
   <a href="https://twitter.com/yoyuehappy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="35" height="35" /></a>
 </p> 
 
-_I love to code by day, when night falls I save society, I am Batman._
+_I love to spam Asuka._
 
 
