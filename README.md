@@ -3,8 +3,8 @@
     <img src="https://github-streaks.onrender.com/streak/ryuzinoh/image?cache_bust=100" alt="GitHub Streak Stats" style="width: 350px; height: auto; margin-bottom: 10px;">
 <!--    <img src="https://github-streaks.onrender.com/monkeytype/streak/image?cache_dump=49" alt="GitHub Streak Stats" style="width: 444px; height: auto; margin-bottom: 10px;"> -->
 </div>
+<br>
 
-##
 - __currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX__
 
 <!--
