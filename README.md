@@ -6,13 +6,14 @@
 <br>
 
 - __currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX__
+- __parallel production: [Artistrix Live](https://artistryx-sepia.vercel.app/)__ _still finding a effective domain which is free and flexible xD, I wont creat a subdomain from my personal domain **safallama.com.np** as this project itself is considered as root SO_
 
 <!--
 # Statistics 
 - [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
 - [GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryuzinoh&layout=compact&show_icons=true&theme=midnight-purple)
 - [Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=ryuzinoh&bg_color=000000&color=ffffff&line=4e4c9e&point=403d3d&area=true&hide_border=true)
-- [Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh)
+- [Leetcode Stats](https://leetcard.jacoblin.cool/ryuzinoh) 
 -->
 
 ## Posts
