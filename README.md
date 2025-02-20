@@ -6,8 +6,7 @@
 <br>
 
 - __currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX__
-- __parallel production: [Artistrix Live](https://artistryx-sepia.vercel.app/)__ _still finding a effective domain which is free and flexible xD, I wont creat a subdomain from my personal domain **safallama.com.np** as this project itself is considered as root SO_
-
+- __parallel production: [Artistrix Live](https://artistryx-sepia.vercel.app/)__ and _looking for  the help with making it mobile-responsive. until then this project is desktop optimized only_
 <!--
 # Statistics 
 - [Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzinoh&layout=compact&theme=midnight-purple)
