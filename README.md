@@ -7,11 +7,9 @@
 </div>
 <br>
 
+## Current tasklists
 <!-- doing start -->
-- [Artistry](https://github.com/Happilli/Artistry): A platform for me to show you'all aobu tmy arts, digital arts and manga i will be creating.
-- [Serena Front](https://github.com/RyuZinOh/serena-FRONTEND): Frontend for Serena, my cutepie project for pokemons which i love haha!
-- [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-): Backend for Serena, handling APIs and database operations.
-- [projectBCA](https://github.com/Loftyvirus/projectBCA): providing students BCA question papers related to pokhara university.
+
 <!-- doing end -->
 
 <!--
