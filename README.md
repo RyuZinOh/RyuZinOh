@@ -7,6 +7,9 @@
 </div>
 <br>
 
+<!-- doing start -->
+
+<!-- doing end -->
 - __currently contributing [Artistry](https://github.com/Happilli/Artistry) and strategizing battle plans in serenaX__
 - __parallel production: [Artistrix Live](https://artistryx-sepia.vercel.app/)__ and _looking for  the help with making it mobile-responsive. until then this project is desktop optimized only_
 <!--
