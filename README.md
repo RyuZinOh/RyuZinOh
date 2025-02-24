@@ -2,7 +2,8 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
 
-<img src="https://github-streaks-87nn.onrender.com/streak/ryuzinoh/image" alt="GitHub Streak Stats" style="width: 444px; height: auto; margin-bottom: 10px;"> 
+<img src="https://github-streaks-87nn.onrender.com/streak/ryuzinoh/image?timestamp=<?= time() ?>" alt="GitHub Streak Stats" style="width: 444px; height: auto; margin-bottom: 10px;">
+
 
 <br>
 
