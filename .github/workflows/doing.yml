@@ -24,13 +24,13 @@ jobs:
       # Step 3: Parse the JSON and update the README.md between <!-- doing start --> and <!-- doing end -->
       - name: Update README with JSON data
         run: |
-          # Delete the content between <!-- doing start --> and <!-- doing end -->
+          # Delete the content between <!-- doing start --> and <!-- doing end --> (excluding the comments themselves)
           sed -i '/<!-- doing start -->/,/<!-- doing end -->/{//!d}' README.md
 
-          # Add the header and JSON data between the comments
-          echo -e "<!-- doing start -->\n### My Projects\n" >> README.md
-          jq -r '.repositories[] | "- [\(.name)](\(.url)): \(.motive)"' doing.json >> README.md
-          echo -e "\n<!-- doing end -->" >> README.md
+          # Add the JSON data between the comments
+          sed -i '/<!-- doing start -->/r /dev/stdin' README.md <<EOF
+$(jq -r '.repositories[] | "- [\(.name)](\(.url)): \(.motive)"' doing.json)
+EOF
 
       # Step 4: Commit and push changes
       - name: Commit and push changes
