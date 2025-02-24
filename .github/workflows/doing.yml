@@ -1,0 +1,42 @@
+name: Update README with JSON Data
+
+on:
+  schedule:
+    - cron: '0 20 * * *'  # Runs at 8 PM UTC every day
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Step 2: Fetch the JSON file from the GitHub URL
+      - name: Fetch JSON data
+        id: fetch-json
+        run: |
+          curl -s -o doing.json https://raw.githubusercontent.com/RyuZinOh/static-assets/main/doing.json
+          echo "JSON file downloaded"
+
+      # Step 3: Parse the JSON and update the README.md between <!-- doing start --> and <!-- doing end -->
+      - name: Update README with JSON data
+        run: |
+          # Delete the content between <!-- doing start --> and <!-- doing end -->
+          sed -i '/<!-- doing start -->/,/<!-- doing end -->/{//!d}' README.md
+
+          # Add the header and JSON data between the comments
+          echo -e "<!-- doing start -->\n### My Projects\n" >> README.md
+          jq -r '.repositories[] | "- [\(.name)](\(.url)): \(.motive)"' doing.json >> README.md
+          echo -e "\n<!-- doing end -->" >> README.md
+
+      # Step 4: Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update README with project list" || true
+          git push
