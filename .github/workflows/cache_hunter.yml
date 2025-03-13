@@ -23,4 +23,5 @@ jobs:
           git diff --quiet && exit 0  # Exit if no changes
           git add README.md
           git commit -m "Auto-update streak image [$(date)]"
+          git pull --rebase  # Pull changes before pushing
           git push
