@@ -14,7 +14,7 @@ jobs:
 
       - name: Update README with new timestamp
         run: |
-          sed -i "s|https://github-streaks-87nn.onrender.com/streak/ryuzinoh/image?cache_bust=[0-9]*|https://github-streaks-87nn.onrender.com/streak/ryuzinoh/image?cache_bust=$(date +%s)|g" README.md
+          sed -i "s|https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=[0-9]*|https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=$(date +%s)|g" README.md
 
       - name: Configure Git
         run: |
