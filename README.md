@@ -9,11 +9,10 @@
 
 ## Current tasklists
 <!-- doing start -->
-- [nepalibabu jekyll theme](https://github.com/Loftyvirus/nepalibabu-nepali): A jekyll theme creation based on the nepal as main theme to store blog, as a portfoio and other.
-- [Artistry](https://github.com/Happilli/Artistry): A platform for me to show you'all aobut my arts, digital arts and manga i will be creating.
+- [nepalibabu jekyll theme](https://github.com/Loftyvirus/nepalibabu-nepali/tree/reWrite): Rewriting it.
 - [Serena Front](https://github.com/RyuZinOh/serena-FRONTEND): Frontend for Serena, my cutepie project for pokemons which i love haha!
 - [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-): Backend for Serena, handling APIs and database operations.
-- [projectBCA](https://github.com/Loftyvirus/projectBCA): providing students BCA question papers related to pokhara university.
+- [saman](https://github.com/RyuZinOh/saman-ecommerce/tree/reWrite_ui): rewriting it.
 <!-- doing end -->
 
 <!--
