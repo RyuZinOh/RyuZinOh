@@ -1,4 +1,6 @@
 ## <samp>Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli) aka [Ryuzinoh](https://www.youtube.com/watch?v=dz1MhkbPthI)!</samp>
+
+![codewar](https://www.codewars.com/users/RyuZinOh/badges/large)
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
 
 
