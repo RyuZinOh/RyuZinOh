@@ -7,6 +7,8 @@
 
 <br>
 
+<details>
+  
 ## Current tasklists
 <!-- doing start -->
 - [nepalibabu jekyll theme](https://github.com/Loftyvirus/nepalibabu-nepali/tree/reWrite): Rewriting it.
@@ -42,6 +44,6 @@
 </p> 
 
 _I love to spam Asuka._
-
+</details>
 
 
