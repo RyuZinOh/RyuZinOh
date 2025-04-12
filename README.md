@@ -2,7 +2,7 @@
 
 ![codewar](https://www.codewars.com/users/RyuZinOh/badges/large)
 
-![myownStreak](https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=1744465570&lang=ne)
+![myownStreak](https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=1744466360&lang=ne)
 
 <details>
   
