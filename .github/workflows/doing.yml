@@ -2,38 +2,38 @@ name: Update README with JSON Data
 
 on:
   schedule:
-    - cron: '0 20 * * *' 
-  workflow_dispatch: 
+    - cron: '0 20 * * *'  # Runs at 8 PM UTC every day
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # fetching all bases
+          fetch-depth: 0  # fetch all bases
 
-      - name: Fetch and update README with JSON data
+      - name: Fetch and update README
         run: |
-          # Download JSON data
           curl -s -o doing.json https://raw.githubusercontent.com/RyuZinOh/static-assets/main/doing.json
 
-          # Extract project info and update README in one step
           jq -r '.repositories[] | "- [\(.name)](\(.url)): \(.motive)"' doing.json > new_doing_content.txt
 
-          # Update the README with the new data between the markers
           sed -i '/<!-- doing start -->/,/<!-- doing end -->/{//!d}' README.md
           sed -i '/<!-- doing start -->/r new_doing_content.txt' README.md
 
-      
-      - name: Commit and push changes
+          rm doing.json new_doing_content.txt
+
+      - name: Commit and push
         run: |
-          git config --global user.name "${{ github.actor }}"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git pull --rebase  # Pull any remote changes first
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          git pull --rebase
+          
           git add README.md
           git commit -m "docs: update README with project list" || echo "No changes to commit"
+          
           git push
