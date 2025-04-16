@@ -2,38 +2,53 @@ name: Update README with JSON Data
 
 on:
   schedule:
-    - cron: '0 20 * * *'  # Runs at 8 PM UTC every day
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 20 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # fetch all bases
+          fetch-depth: 0
 
-      - name: Fetch and update README
+      - name: Setup Git
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Clean working directory
+        run: |
+          git clean -fd
+          git reset --hard HEAD
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Update README
+        run: |
+          # Download and process JSON
           curl -s -o doing.json https://raw.githubusercontent.com/RyuZinOh/static-assets/main/doing.json
-
           jq -r '.repositories[] | "- [\(.name)](\(.url)): \(.motive)"' doing.json > new_doing_content.txt
-
+          
+          # Update README
           sed -i '/<!-- doing start -->/,/<!-- doing end -->/{//!d}' README.md
           sed -i '/<!-- doing start -->/r new_doing_content.txt' README.md
-
+          
+          # Clean up
           rm doing.json new_doing_content.txt
 
       - name: Commit and push
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          
-          git pull --rebase
-          
           git add README.md
-          git commit -m "docs: update README with project list" || echo "No changes to commit"
-          
-          git push
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "docs: Update project list [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
