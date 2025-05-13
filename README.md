@@ -1,7 +1,7 @@
 ## <samp>Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli) aka [Ryuzinoh](https://www.youtube.com/watch?v=dz1MhkbPthI)!</samp>
 
 <!--![codewar](https://www.codewars.com/users/RyuZinOh/badges/large)--->
-![myownStreak](https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=1747126778&lang=ne&theme=midnight)
+![myownStreak](https://github-streaks-mqc9.onrender.com/streak/ryuzinoh/image?cache_bust=1747127956&lang=ne&theme=midnight)
 
 <details>
   
