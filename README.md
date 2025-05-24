@@ -8,10 +8,7 @@
   
 ## Current tasklists
 <!-- doing start -->
-- [Serena Front](https://github.com/RyuZinOh/serena-FRONTEND): Frontend for Serena, my cutepie project for pokemons which i love haha!
-- [Serena Backend](https://github.com/RyuZinOh/serena-BACKEND-): Backend for Serena, handling APIs and database operations.
-- [Saman](https://github.com/RyuZinOh/saman-ecommerce/tree/reWrite_ui): Rewriting it.
-- [Learning rust](#): To get into lowlevel as possible
+- [Learning Rust](#): To get into lowlevel as possible!
 <!-- doing end -->
 
 <!--
