@@ -1,7 +1,7 @@
 ### <samp>Hi 👋, I'm [Safal Lama](https://safallama.com.np), aka [Happilli](https://github.com/happilli) aka [Ryuzinoh](https://www.youtube.com/watch?v=dz1MhkbPthI)!</samp>
 
 <!--![codewar](https://www.codewars.com/users/RyuZinOh/badges/large)--->
-![myownStreak](https://github-streaks-73e2.onrender.com/streak/ryuzinoh/image?cache_bust=1749186947&&theme=monochrome)
+![myownStreak](https://github-streaks-73e2.onrender.com/streak/ryuzinoh/image?cache_bust=1749205043&&theme=monochrome)
 <details>
   
 ## Current tasklists
